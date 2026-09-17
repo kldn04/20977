@@ -1343,38 +1343,38 @@ fab-f6e9cb37abfa245c,2032Q1,40000.0,Quarterly planning estimate derived from ann
 fab-f6e9cb37abfa245c,2032Q2,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-f6e9cb37abfa245c,2032Q3,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-f6e9cb37abfa245c,2032Q4,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2025Q1,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2025Q2,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2025Q3,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2025Q4,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2026Q1,22500.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2026Q2,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2026Q3,7500.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2026Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2027Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2027Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2027Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2027Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2028Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2028Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2028Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2028Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2029Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2029Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2029Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2029Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2030Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2030Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2030Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2030Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2031Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2031Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2031Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2031Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2032Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2032Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2032Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-01de02e7b75c6632,2032Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
+fab-01de02e7b75c6632,2025Q1,30000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2025Q2,30000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2025Q3,30000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2025Q4,30000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2026Q1,30000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2026Q2,30000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2026Q3,30000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2026Q4,30000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2027Q1,30000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2027Q2,27000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2027Q3,22500,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2027Q4,18000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2028Q1,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2028Q2,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2028Q3,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2028Q4,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2029Q1,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2029Q2,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2029Q3,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2029Q4,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2030Q1,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2030Q2,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2030Q3,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2030Q4,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2031Q1,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2031Q2,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2031Q3,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2031Q4,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2032Q1,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2032Q2,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2032Q3,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-01de02e7b75c6632,2032Q4,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
 fab-2e0a6db4e1be832a,2025Q1,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-2e0a6db4e1be832a,2025Q2,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-2e0a6db4e1be832a,2025Q3,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
@@ -1535,38 +1535,38 @@ fab-c1fca2a2861a4fdf,2032Q1,40000.0,Quarterly planning estimate derived from ann
 fab-c1fca2a2861a4fdf,2032Q2,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-c1fca2a2861a4fdf,2032Q3,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-c1fca2a2861a4fdf,2032Q4,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2025Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2026Q1,937.5,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2026Q2,1875.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2026Q3,2812.5,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2026Q4,3750.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2027Q1,5625.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2027Q2,7500.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2027Q3,9375.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2027Q4,11250.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2028Q1,12187.5,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2028Q2,13125.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2028Q3,14062.5,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2028Q4,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2029Q1,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2029Q2,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2029Q3,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2029Q4,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2030Q1,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2030Q2,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2030Q3,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2030Q4,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2031Q1,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2031Q2,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2031Q3,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2031Q4,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2032Q1,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2032Q2,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2032Q3,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-49c6f58c13cda462,2032Q4,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
+fab-49c6f58c13cda462,2025Q1,0,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2025Q2,0,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2025Q3,0,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2025Q4,0,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2026Q1,0,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2026Q2,0,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2026Q3,0,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2026Q4,0,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2027Q1,0,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2027Q2,3000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2027Q3,7500,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2027Q4,12000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2028Q1,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2028Q2,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2028Q3,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2028Q4,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2029Q1,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2029Q2,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2029Q3,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2029Q4,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2030Q1,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2030Q2,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2030Q3,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2030Q4,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2031Q1,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2031Q2,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2031Q3,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2031Q4,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2032Q1,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2032Q2,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2032Q3,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
+fab-49c6f58c13cda462,2032Q4,15000,"Eleuthia quarter-end available wafer-start capacity model; physical room envelope retained, conversion transfers capacity between node rows."
 fab-31091ef8ae0ed425,2025Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
 fab-31091ef8ae0ed425,2025Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
 fab-31091ef8ae0ed425,2025Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
