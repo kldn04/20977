@@ -1855,38 +1855,38 @@ fab-7bdfaa62adfe07ba,2032Q1,10000.0,Quarterly planning estimate derived from ann
 fab-7bdfaa62adfe07ba,2032Q2,10000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-7bdfaa62adfe07ba,2032Q3,10000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-7bdfaa62adfe07ba,2032Q4,10000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2025Q1,3750.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2025Q2,4166.666666666666,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2025Q3,4583.333333333333,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2025Q4,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2026Q1,3750.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2026Q2,2500.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2026Q3,1250.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2026Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2027Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2027Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2027Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2027Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2028Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2028Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2028Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2028Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2029Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2029Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2029Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2029Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2030Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2030Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2030Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2030Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2031Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2031Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2031Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2031Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2032Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2032Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2032Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-bc4540eda3358756,2032Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
+fab-bc4540eda3358756,2025Q1,2916.666666666667,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2025Q2,2500.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2025Q3,2083.3333333333335,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2025Q4,1666.666666666667,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2026Q1,1250.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2026Q2,833.3333333333339,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2026Q3,416.66666666666697,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2026Q4,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2027Q1,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2027Q2,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2027Q3,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2027Q4,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2028Q1,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2028Q2,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2028Q3,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2028Q4,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2029Q1,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2029Q2,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2029Q3,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2029Q4,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2030Q1,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2030Q2,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2030Q3,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2030Q4,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2031Q1,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2031Q2,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2031Q3,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2031Q4,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2032Q1,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2032Q2,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2032Q3,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-bc4540eda3358756,2032Q4,0.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
 fab-7986bd5a576a4fba,2025Q1,625.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-7986bd5a576a4fba,2025Q2,750.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-7986bd5a576a4fba,2025Q3,875.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
@@ -1983,38 +1983,38 @@ fab-1ee8b38de7df1db9,2032Q1,15000.0,Quarterly planning estimate derived from ann
 fab-1ee8b38de7df1db9,2032Q2,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-1ee8b38de7df1db9,2032Q3,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-1ee8b38de7df1db9,2032Q4,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2025Q1,2083.333333333333,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2025Q2,2500.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2025Q3,2916.6666666666665,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2025Q4,3333.333333333333,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2026Q1,3750.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2026Q2,4166.666666666666,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2026Q3,4583.333333333333,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2026Q4,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2027Q1,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2027Q2,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2027Q3,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2027Q4,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2028Q1,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2028Q2,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2028Q3,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2028Q4,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2029Q1,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2029Q2,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2029Q3,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2029Q4,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2030Q1,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2030Q2,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2030Q3,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2030Q4,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2031Q1,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2031Q2,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2031Q3,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2031Q4,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2032Q1,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2032Q2,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2032Q3,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-47232b4d5756afbd,2032Q4,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
+fab-47232b4d5756afbd,2025Q1,2083.333333333333,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2025Q2,2500.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2025Q3,2916.6666666666665,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2025Q4,3333.333333333333,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2026Q1,3750.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2026Q2,4166.666666666666,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2026Q3,4583.333333333333,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2026Q4,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2027Q1,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2027Q2,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2027Q3,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2027Q4,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2028Q1,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2028Q2,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2028Q3,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2028Q4,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2029Q1,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2029Q2,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2029Q3,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2029Q4,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2030Q1,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2030Q2,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2030Q3,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2030Q4,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2031Q1,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2031Q2,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2031Q3,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2031Q4,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2032Q1,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2032Q2,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2032Q3,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
+fab-47232b4d5756afbd,2032Q4,5000.0,Eleuthia quarter-end node allocation model within a shared 5k WPM cleanroom planning envelope. Provisional conversion timing; not actual wafer starts.
 fab-7bd20bd3854ff70b,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-7bd20bd3854ff70b,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-7bd20bd3854ff70b,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
