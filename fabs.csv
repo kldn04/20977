@@ -1,0 +1,177 @@
+company,site,fab,phase,node,capacity_wpm,hvm,summary
+TSMC,Tainan,Fab 18,Phase 1,N5,35000,2020.Q3,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Tainan,Fab 18,Phase 2,N5,35000,2020.Q3,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Tainan,Fab 18,Phase 3,N5,35000,2021.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Tainan,Fab 18,Phase 4,N5,35000,2021.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Arizona,Fab 21,Phase 1,N5,30000,2025.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Tainan,Fab 18,Phase 5,N3,35000,2023.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Tainan,Fab 18,Phase 6,N3,35000,2024.Q2,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Tainan,Fab 18,Phase 7,N3,35000,2024.Q2,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Tainan,Fab 18,Phase 8,N3,30000,2025.Q1,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Tainan,Fab 18,Phase 9,N3,30000,2026.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Arizona,Fab 21,Phase 2,N3,25000,2027.Q3,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Kumamoto,Fab 23.JASM,Phase 2,N3,25000,2028.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Baoshan,Fab 20,Phase 1,N2,25000,2025.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Baoshan,Fab 20,Phase 2,N2,25000,2026.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Baoshan,Fab 20,Phase 3,N2,25000,2027.Q3,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Kaohsiung,Fab 22,Phase 1,N2,25000,2025.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Kaohsiung,Fab 22,Phase 2,N2,25000,2026.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Kaohsiung,Fab 22,Phase 3,N2,25000,2027.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Kaohsiung,Fab 22,Phase 4,N2,25000,2027.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Tainan,STSP-Expansion,Phase 1,N2,25000,2029.Q2,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Tainan,STSP-Expansion,Phase 2,N2,25000,2029.Q2,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Tainan,STSP-Expansion,Phase 3,N2,25000,2029.Q2,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Arizona,Fab 21,Phase 3,N2,25000,2028.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Taichung,Fab 24,Phase 1,A14,25000,2028.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Taichung,Fab 24,Phase 2,A14,25000,2029.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Taichung,Fab 24,Phase 3,A14,25000,2029.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Taichung,Fab 24,Phase 4,A14,25000,2029.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Baoshan,Fab 20,Phase 4,A14,25000,2029.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Kaohsiung,Fab 22,Phase 5,A14,25000,2028.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Tainan,TBA,Phase 3,A14,25000,2030.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Arizona,Fab 21,Phase 4,A14,25000,2030.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Shalun,Fab 25,Phase 1,A10,25000,2030.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Shalun,Fab 25,Phase 2,A10,25000,2030.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Shalun,Fab 25,Phase 3,A10,25000,2031.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Shalun,Fab 25,Phase 4,A10,25000,2031.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Shalun,Fab 25,Phase 5,A10,25000,2032.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Shalun,Fab 25,Phase 6,A10,25000,2032.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Shalun,Fab 25,Phase 7,A10,25000,2032.Q2,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,TBA,TBA,TBA,A10,25000,2033.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,TBA,TBA,TBA,A10,25000,2033.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+TSMC,Arizona,Fab 21,Phase 5,A10,25000,2032.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Intel,Kiryat Gat,Fab 28,Module 1,Intel 7,40000,2022.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Intel,Arizona,Fab 42,Module 1,Intel 7,30000,2022.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Intel,Leixlip,Fab 34,Module 1,Intel 3,30000,2024.Q1,ProcessWindow planning baseline; source reconciliation is ongoing.
+Intel,Leixlip,Fab 34,Module 2,Intel 3,30000,2027.Q3,ProcessWindow planning baseline; source reconciliation is ongoing.
+Intel,Oregon,D1X,Module 3,18A,5000,2025.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Intel,Arizona,Fab 52,52.1,18A,40000,2025.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Intel,Arizona,Fab 62,52.2,18A,40000,2028.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Intel,Arizona,Fab 42,Module 1,18A,15000,2027.Q2,Conversion planning record. ProcessWindow planning baseline; source reconciliation is ongoing.
+Intel,Ohio,Fab 27,Module 1,14A,40000,2029.Q1,ProcessWindow planning baseline; source reconciliation is ongoing.
+Intel,Ohio,Fab 27,Module 2,14A,40000,2029.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Intel,Oregon,D1X,Module 4,10A,5000,2030.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Intel,Ohio,TBA,TBA,10A,20000,2031.Q1,ProcessWindow planning baseline; source reconciliation is ongoing.
+Intel,Ohio,TBA,TBA,10A,20000,2032.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Intel,Ohio,TBA,TBA,10A,20000,2033.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Samsung Electronics Foundry,Pyeongtaek,P2,S5 Line CR1,SF4/5,25000,2022.Q4,8th Fl.
+Samsung Electronics Foundry,Pyeongtaek,P2,S5 Line CR2,SF4/5,25000,2022.Q4,8th Fl.
+Samsung Electronics Foundry,Hwaseong,V1,CleanRoom2,SF4/5,10000,2022.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Samsung Electronics Foundry,Hwaseong,V1,CleanRoom1,SF3,5000,2024.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Samsung Electronics Foundry,Hwaseong,V1,CleanRoom3,SF3,1000,2024.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Samsung Electronics Foundry,Pyeongtaek,P3,Phase 2 CR,SF2,25000,2027.Q3,Conversion planning record. ProcessWindow planning baseline; source reconciliation is ongoing.
+Samsung Electronics Foundry,Hwaseong,Line 17,S3 Line,SF2,15000,2026.Q4,Conversion planning record. ProcessWindow planning baseline; source reconciliation is ongoing.
+Samsung Electronics Foundry,Hwaseong,V1,CleanRoom1,SF2,5000,2025.Q4,Conversion planning record. ProcessWindow planning baseline; source reconciliation is ongoing.
+Samsung Electronics Foundry,Austin,Taylor,Module 1,SF2,20000,2027.Q3,ProcessWindow planning baseline; source reconciliation is ongoing.
+Samsung Electronics Foundry,Pyeongtaek,P5-I,Phase 2 CR,SF1.4,25000,,Construction resumed 2025-11; possible online timing as early as 2027 under accelerated plan.
+Samsung Electronics Foundry,Pyeongtaek,NRD-K,Phase 1,SF1.4,3000,2026.Q4,R&D
+Samsung Electronics Foundry,Austin,Taylor,Module 2,SF1.4,20000,2029.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Samsung Electronics Foundry,Yongin,SY-1,Phase 1 CR,SF1.0,25000,2030.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Samsung Electronics Foundry,Pyeongtaek,NRD-K,Phase 2,SF1.0,3000,2029.Q3,R&D
+Samsung Electronics Foundry,TBA,TBA,TBA,SF1.0,25000,2031.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Rapidus,Hokkaido,Chitose,IIM-1,2HP,25000,2027.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Rapidus,Hokkaido,Chitose,IIM-2,1.4HP,25000,2030.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Samsung Electronics Memory,Hwaseong,Line 12,Phase 1,1c,50000,2028.Q1,Conversion planning record. Previously NAND
+Samsung Electronics Memory,Hwaseong,Line 13,Phase 1,n.m.,,2003.Q3,Image Sensor (50kwspm)
+Samsung Electronics Memory,Hwaseong,Line 15,Phase 1,1a,80000,2006.Q4,Might convert to 1c
+Samsung Electronics Memory,Hwaseong,Line 15,Phase 2,1a,60000,2008.Q3,Might convert to 1c
+Samsung Electronics Memory,Hwaseong,Line 16,Multiple,n.m.,,2008.Q3,Other (60kwspm)
+Samsung Electronics Memory,Hwaseong,Line 17,Multiple,1b,120000,2008.Q3,Might convert to 1c
+Samsung Electronics Memory,Pyeongtaek,P1,Phase 1 CR1,1c,30000,2026.Q3,Conversion planning record. 3rd Fl. CR x2 was 1b
+Samsung Electronics Memory,Pyeongtaek,P1,Phase 1 CR2,1c,30000,2026.Q3,Conversion planning record. 3rd Fl. CR x2 was 1b
+Samsung Electronics Memory,Pyeongtaek,P1,Phase 2 CR1,1a,30000,2018.Q2,8th Fl. CR x2
+Samsung Electronics Memory,Pyeongtaek,P1,Phase 2 CR2,1a,30000,2018.Q2,8th Fl. CR x2
+Samsung Electronics Memory,Pyeongtaek,P1,Phase 2 CR1,1d,30000,2029.Q2,Conversion planning record. Must convert to 1d in 29
+Samsung Electronics Memory,Pyeongtaek,P1,Phase 2 CR2,1d,30000,2029.Q2,Conversion planning record. Must convert to 1d in 29
+Samsung Electronics Memory,Pyeongtaek,P2,Phase 1 CR1,1a,140000,2020.Q3,3rd Fl. CR 1a Node
+Samsung Electronics Memory,Pyeongtaek,P2,Phase 1 CR1,1d,140000,2029.Q4,Conversion planning record. Must convert to 1d in 2029
+Samsung Electronics Memory,Pyeongtaek,P2,Phase 1 CR2,n.m.,,2020.Q3,NAND Fab.
+Samsung Electronics Memory,Pyeongtaek,P3,Phase 1 CR,n.m.,,2023.Q3,NAND Fab.
+Samsung Electronics Memory,Pyeongtaek,P3,Phase 2 CR,1b,110000,2023.Q1,Going from 1b > 1c
+Samsung Electronics Memory,Pyeongtaek,P3,Phase 2 CR,1c,110000,2026.Q4,Conversion planning record. Going from 1b > 1c
+Samsung Electronics Memory,Pyeongtaek,P4,Phase 1 CR,1c,50000,2026.Q2,"Local reporting indicates P4 is a multi-phase, mixed-product fab: PH1 was operating by November 2025 with NAND and 1c DRAM lines; PH3 had completed line construction and had equipment moving in; PH4 had entered groundbreaking; PH2 was expected to break ground in December 2025 or January 2026. A later local report says blanket front-end equipment orders for PH2 and PH4 were placed in March 2026. Samsung officially confirms commercial HBM4 based on 1c DRAM and says it is expanding HBM4 capacity using previously secured cleanroom infrastructure, but does not attribute that production or a WPM figure to P4 phases. The ProcessWindow planning baseline places PH3 HVM in 2026Q1, PH1 HVM in 2026Q2, PH4 HVM in 2026Q4, and PH2 HVM in 2027Q3; these are phase planning estimates and do not establish physical cleanroom identity."
+Samsung Electronics Memory,Pyeongtaek,P4,Phase 2 CR,1d,50000,2027.Q3,All Phases 1c DRAM
+Samsung Electronics Memory,Pyeongtaek,P4,Phase 3 CR,1c,50000,2026.Q1,All Phases 1c DRAM
+Samsung Electronics Memory,Pyeongtaek,P4,Phase 4 CR,1c,50000,2026.Q4,All Phases 1c DRAM
+Samsung Electronics Memory,Pyeongtaek,P5-I,Phase 1 CR,1d,50000,,Construction resumed 2025-11; possible online timing as early as 2027 under accelerated plan.
+Samsung Electronics Memory,Pyeongtaek,P5-I,Phase 3 CR,1d,50000,,Construction resumed 2025-11; possible online timing as early as 2027 under accelerated plan.
+Samsung Electronics Memory,Pyeongtaek,P5-I,Phase 4 CR,1d,50000,,Construction resumed 2025-11; possible online timing as early as 2027 under accelerated plan.
+Samsung Electronics Memory,Pyeongtaek,P5-I,Phase 5 CR,1d,50000,,Construction resumed 2025-11; possible online timing as early as 2027 under accelerated plan.
+Samsung Electronics Memory,Pyeongtaek,P5-I,Phase 6 CR,n.m.,,,Construction resumed 2025-11; possible online timing as early as 2027 under accelerated plan.
+Samsung Electronics Memory,Pyeongtaek,P5-II,Phase 1 CR,0a,50000,,"Groundbreaking advanced to 2026-07; columns expected around 2026 year-end; operation targeted in 2029, with a reported temporary-occupancy milestone in 2029-05."
+Samsung Electronics Memory,Pyeongtaek,P5-II,Phase 2 CR,0a,50000,,"Groundbreaking advanced to 2026-07; columns expected around 2026 year-end; operation targeted in 2029, with a reported temporary-occupancy milestone in 2029-05."
+Samsung Electronics Memory,Pyeongtaek,P5-II,Phase 3 CR,0b,50000,,"Groundbreaking advanced to 2026-07; columns expected around 2026 year-end; operation targeted in 2029, with a reported temporary-occupancy milestone in 2029-05."
+Samsung Electronics Memory,Pyeongtaek,P5-II,Phase 4 CR,0b,50000,,"Groundbreaking advanced to 2026-07; columns expected around 2026 year-end; operation targeted in 2029, with a reported temporary-occupancy milestone in 2029-05."
+Samsung Electronics Memory,Pyeongtaek,P5-II,Phase 5 CR,0b,50000,,"Groundbreaking advanced to 2026-07; columns expected around 2026 year-end; operation targeted in 2029, with a reported temporary-occupancy milestone in 2029-05."
+Samsung Electronics Memory,Pyeongtaek,P5-II,Phase 6 CR,n.m.,,,"Groundbreaking advanced to 2026-07; columns expected around 2026 year-end; operation targeted in 2029, with a reported temporary-occupancy milestone in 2029-05."
+Samsung Electronics Memory,Yongin,SY-1,Phase 2 CR,0a,50000,2030.Q4,4/6 phases DRAM
+Samsung Electronics Memory,Yongin,SY-1,Phase 3 CR,0a,50000,2031.Q4,4/6 phases DRAM
+Samsung Electronics Memory,Yongin,SY-1,Phase 4 CR,0a,50000,2031.Q4,4/6 phases DRAM
+Samsung Electronics Memory,Yongin,SY-1,Phase 5 CR,0b,50000,2032.Q4,4/6 phases DRAM
+Samsung Electronics Memory,Yongin,SY-1,Phase 6 CR,n.m.,,2030.Q4,NAND or Packaging
+SK hynix,Icheon,M10,Phase 1 CR,1a,5000,2005.Q1,DRAM + R&D
+SK hynix,Wuxi,C2+CF,Multiple CR,1z,190000,2006.Q2,Converted to 1a for 2026
+SK hynix,Wuxi,C2+CF,Multiple CR,1a,190000,2006.Q2,Conversion planning record. Converted to 1a for 2026
+SK hynix,Icheon,M14,Phase 1 CR,1a,170000,2015.Q4,1a DRAM to 1c DRAM
+SK hynix,Icheon,M14,Phase 1 CR,1c,130000,2028.Q1,Conversion planning record. 1a DRAM to 1c DRAM
+SK hynix,Cheongju,M15X,Phase 1 CR,1b,30000,2026.Q2,"SK hynix officially designated M15X as a new DRAM production base focused on next-generation DRAM including HBM, with construction targeted for November 2025 and production before Yongin's first fab. Detailed April 2026 local reporting says production was ramping at about 10,000 wafer inputs per month, targeting 30,000-50,000 WPM by year-end 2026 and a maximum 80,000 WPM in 2027. ProcessWindow supplies the current planning baseline: Phase 1 HVM in 2026Q2 and Phase 2 HVM in 2026Q4."
+SK hynix,Cheongju,M15X,Phase 2 CR,1b,30000,2026.Q4,Might convert to 1d
+SK hynix,Cheongju,M15X,Phase 1 CR,1d,30000,2030.Q1,Conversion planning record. 1b > 1d by 2030
+SK hynix,Cheongju,M15X,Phase 2 CR,1d,30000,2030.Q1,Conversion planning record. 1b > 1d by 2030
+SK hynix,Icheon,M16,Phase 1 CR,1b,90000,2021.Q1,1b DRAM to 1c DRAM
+SK hynix,Icheon,M16,Phase 2 CR,1b,90000,2024.Q3,1b DRAM to 1c DRAM
+SK hynix,Icheon,M16,Phase 1 CR,1c,90000,2028.Q1,Conversion planning record. 1b DRAM to 1c DRAM
+SK hynix,Icheon,M16,Phase 2 CR,1c,90000,2028.Q1,Conversion planning record. 1b DRAM to 1c DRAM
+SK hynix,Cheongju,M17,Phase 2 CR,t.b.a,,T.B.A.,Delayed construction
+SK hynix,Cheongju,M11,Multiple CR,n.m.,,2008.Q4,NAND
+SK hynix,Cheongju,M12,Multiple CR,n.m.,,2006.Q2,NAND
+SK hynix,Icheon,M14,Phase 2 CR,n.m.,,2017.Q4,NAND
+SK hynix,Yongin,Y1,Phase 1 CR,1c,50000,2027Q2,"First-fab shell and cleanroom buildout are underway. SK hynix officially confirms two building shells and six cleanrooms, with the first cleanroom opening accelerated to February 2027. A local supply-chain report says a pilot/one-pass line is planned for February 2027 and equipment installation for an initial approximately 20,000 WPM tranche is expected in March or April 2027. Using the user-preferred ProcessWindow planning baseline, Phase 1 HVM is currently estimated for 2027Q2; this is a planning estimate distinct from the confirmed February cleanroom-opening target and reported March/April tool installation."
+SK hynix,Yongin,Y1,Phase 2 CR,1d,50000,2027.Q3,ProcessWindow planning baseline; source reconciliation is ongoing.
+SK hynix,Yongin,Y1,Phase 3 CR,1d,50000,2028.Q1,ProcessWindow planning baseline; source reconciliation is ongoing.
+SK hynix,Yongin,Y1,Phase 4 CR,1d,50000,2028.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+SK hynix,Yongin,Y1,Phase 5 CR,1d,50000,2029.Q1,ProcessWindow planning baseline; source reconciliation is ongoing.
+SK hynix,Yongin,Y1,Phase 6 CR,1d,50000,2029.Q1,ProcessWindow planning baseline; source reconciliation is ongoing.
+SK hynix,Yongin,Y1,Phase 1 CR,1d,50000,2029.Q3,Conversion planning record. Converts to 1d by 2029
+SK hynix,Yongin,Y2,Phase 1 CR,1d,50000,2030.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+SK hynix,Yongin,Y2,Phase 2 CR,1d,50000,2030.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+SK hynix,Yongin,Y2,Phase 3 CR,0a,50000,2030.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+SK hynix,Yongin,Y2,Phase 4 CR,0a,50000,2031.Q2,ProcessWindow planning baseline; source reconciliation is ongoing.
+SK hynix,Yongin,Y2,Phase 5 CR,0a,50000,2031.Q2,ProcessWindow planning baseline; source reconciliation is ongoing.
+SK hynix,Yongin,Y2,Phase 6 CR,0a,50000,2031.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Micron,Hiroshima,Hiroshima,B-Building,1c,100000,2025.Q3,Elpida
+Micron,Hiroshima,Hiroshima,Expansion,1d,40000,2028.Q4,Elpida
+Micron,Taichung,A3,A3 P1+P2,1c,80000,2025.Q3,ProcessWindow planning baseline; source reconciliation is ongoing.
+Micron,Taichung,A1,A1,1b,50000,2005.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Micron,Taichung,A2,A2,1b,50000,2005.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Micron,Idaho,ID Fab,Phase 1,1d,50000,2027.Q4,"ID1 is under construction. Micron's December 2025 and June 2026 investor materials say first wafer output is expected in mid-calendar 2027; March 2026 material says the schedule remains mid-2027 and construction of ID1/ID2 is underway. Customer qualification follows first output, with no dated qualified-capacity or HVM target disclosed in the reviewed official material."
+Micron,Idaho,ID Fab,Phase 2,1d,50000,2029.Q2,ProcessWindow planning baseline; source reconciliation is ongoing.
+Micron,New York,Clay Fab 1,Phase 1A,0a,50000,2030.Q3,ProcessWindow planning baseline; source reconciliation is ongoing.
+Micron,New York,Clay Fab 1,Phase 1B,0a,50000,2031.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Micron,New York,Clay Fab 2,Phase 2A,0a,50000,2032.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Micron,New York,Clay Fab 2,Phase 2B,0b,50000,2032.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+Micron,Tongluo,PSMC P5,Phase 1 CR,1c,50000,2028.Q1,ProcessWindow planning baseline; source reconciliation is ongoing.
+Micron,Tongluo,New Tongluo,Phase 1 CR,1d,50000,2029.Q2,ProcessWindow planning baseline; source reconciliation is ongoing.
+Micron,Virginia,Fab 6,Module 1,1a,15000,2004.Q1,Might be 60kwspm capable
+Micron,Virginia,Fab 6,Expansion,1a,10000,2004.Q1,Total for entire fab
+Micron,Idaho,Fab 4,Building C+D+E,1z,10000,2001.Q4,R&D
+Micron,Idaho,Fab 4,Building 50,1z,10000,2001.Q4,R&D
+Micron,Idaho,Fab 4,Building 51,1z,10000,2001.Q4,R&D
+Micron,Taoyuan,Fab 11,Inotera Fab 1,1a,60000,2006.Q3,ProcessWindow planning baseline; source reconciliation is ongoing.
+Micron,Taoyuan,Fab 11,Inotera Fab 1a,1b,50000,2006.Q3,ProcessWindow planning baseline; source reconciliation is ongoing.
+Micron,Taoyuan,Fab 11,Inotera Fab 2,1b,30000,2009.Q3,ProcessWindow planning baseline; source reconciliation is ongoing.
+CXMT,Beijing,Beijing Fab,C1,Pre-1z,20000,2022.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+CXMT,Beijing,Beijing Fab,C2,Pre-1z,40000,2024.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+CXMT,Hefei,Innotron,Fab A,Pre-1z,100000,2019.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+CXMT,Hefei,Innotron,Fab C,Pre-1z,100000,2023.Q4,ProcessWindow planning baseline; source reconciliation is ongoing.
+CXMT,Shanghai,Shanghai,Phase 1,Pre-1z,100000,2027.Q2,"A February 2026 local supply-chain report says a Shanghai fab cleanroom had recently been completed, with equipment installation/process tuning not yet started, tool installation unlikely before 2H26, and volume production expected in 2027. Current official/public-government corroboration found in this pass identifies three existing 12-inch DRAM fabs in Hefei and Beijing, but does not identify a Shanghai production fab. The Shanghai physical-fab identity therefore remains unconfirmed."
+CXMT,Shanghai,Shanghai,Phase 2,Pre-1z,100000,2028.Q2,ProcessWindow planning baseline; source reconciliation is ongoing.
+CXMT,Shanghai,Shanghai,Phase 3,Pre-1z,100000,2029.Q2,ProcessWindow planning baseline; source reconciliation is ongoing.
+CXMT,Shenzen,SwaySure,Phase 1,Pre-1z,100000,2026.3Q,Huawei fab in partnering
+YMTC,Wuhan,Wuhan,Phase 3,Pre-1z,100000,2027.1Q,"50% DRAM, max cap all 100k"
+YMTC,TBA,TBA,TBA,Pre-1z,100000,2028.4Q,2 more same regime 50% DRAM
+YMTC,TBA,TBA,TBA,Pre-1z,100000,2029.4Q,2 more same regime 50% DRAM
+Nanya Technology,Location unresolved,new fab,,,,,ProcessWindow planning baseline; source reconciliation is ongoing.
+SMIC,Location unresolved,Facility unresolved,,,30000,,ProcessWindow planning baseline; source reconciliation is ongoing.
+Huawei,Location unresolved,Facility unresolved,,1z/1a as reported,,by end-2027 as reported,Coverage entry only; no physical site/fab allocation.
+SwaySure,Location unresolved,Facility unresolved,,1z/1a as reported,,by end-2027 as reported,Coverage entry only; no physical site/fab allocation.
