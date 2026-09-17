@@ -4575,134 +4575,134 @@ fab-0bba2a91d7179617,2032Q1,50000,Eleuthia estimate of quarter-end available waf
 fab-0bba2a91d7179617,2032Q2,50000,Eleuthia estimate of quarter-end available wafer-start capacity; not installed-tool capacity or actual production. Ramp points are analytical assumptions.
 fab-0bba2a91d7179617,2032Q3,50000,Eleuthia estimate of quarter-end available wafer-start capacity; not installed-tool capacity or actual production. Ramp points are analytical assumptions.
 fab-0bba2a91d7179617,2032Q4,50000,Eleuthia estimate of quarter-end available wafer-start capacity; not installed-tool capacity or actual production. Ramp points are analytical assumptions.
-fab-b6cd9321fec06c20,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2025Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2026Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2026Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2026Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2026Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2027Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2027Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2027Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2027Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2028Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2028Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2028Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2028Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2029Q1,1785.7142857142856,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2029Q2,3571.428571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2029Q3,5357.142857142857,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2029Q4,7142.857142857142,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2030Q1,16071.428571428572,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2030Q2,25000.000000000004,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2030Q3,33928.57142857143,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2030Q4,42857.14285714286,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2031Q1,44642.857142857145,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2031Q2,46428.57142857143,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2031Q3,48214.28571428572,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2031Q4,50000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2032Q1,50000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2032Q2,50000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2032Q3,50000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-b6cd9321fec06c20,2032Q4,50000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2025Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2026Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2026Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2026Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2026Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2027Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2027Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2027Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2027Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2028Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2028Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2028Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2028Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2029Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2029Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2029Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2029Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2030Q1,1785.7142857142856,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2030Q2,3571.428571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2030Q3,5357.142857142857,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2030Q4,7142.857142857142,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2031Q1,14285.714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2031Q2,21428.571428571424,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2031Q3,28571.428571428565,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2031Q4,35714.28571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2032Q1,39285.714285714275,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2032Q2,42857.14285714285,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2032Q3,46428.57142857142,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-7dd0a4dd0a9dca4c,2032Q4,49999.99999999999,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2025Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2026Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2026Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2026Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2026Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2027Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2027Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2027Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2027Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2028Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2028Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2028Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2028Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2029Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2029Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2029Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2029Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2030Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2030Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2030Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2030Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2031Q1,1785.7142857142856,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2031Q2,3571.428571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2031Q3,5357.142857142857,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2031Q4,7142.857142857142,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2032Q1,14285.714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2032Q2,21428.571428571424,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2032Q3,28571.428571428565,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-d12994245f0d7520,2032Q4,35714.28571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2025Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2026Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2026Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2026Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2026Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2027Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2027Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2027Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2027Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2028Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2028Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2028Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2028Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2029Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2029Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2029Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2029Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2030Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2030Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2030Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2030Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2031Q1,1785.7142857142856,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2031Q2,3571.428571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2031Q3,5357.142857142857,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2031Q4,7142.857142857142,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2032Q1,14285.714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2032Q2,21428.571428571424,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2032Q3,28571.428571428565,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1eb87fcfcfc3033a,2032Q4,35714.28571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
+fab-b6cd9321fec06c20,2025Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2025Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2025Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2025Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2026Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2026Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2026Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2026Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2027Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2027Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2027Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2027Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2028Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2028Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2028Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2028Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2029Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2029Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2029Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2029Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2030Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2030Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2030Q3,5000,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2030Q4,10000,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2031Q1,15000,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2031Q2,20000,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2031Q3,25000,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2031Q4,30000,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2032Q1,40000,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2032Q2,50000,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2032Q3,50000,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-b6cd9321fec06c20,2032Q4,50000,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2025Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2025Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2025Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2025Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2026Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2026Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2026Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2026Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2027Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2027Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2027Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2027Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2028Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2028Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2028Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2028Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2029Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2029Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2029Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2029Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2030Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2030Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2030Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2030Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2031Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2031Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2031Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2031Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2032Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2032Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2032Q3,5000,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-7dd0a4dd0a9dca4c,2032Q4,10000,"Eleuthia quarter-end available wafer-start capacity estimate, with sequential allocation between two existing cleanrooms. Company guidance supports supply in 2030 and beyond; exact quarters, room allocation and HVM are analyst estimates."
+fab-d12994245f0d7520,2025Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2025Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2025Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2025Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2026Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2026Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2026Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2026Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2027Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2027Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2027Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2027Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2028Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2028Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2028Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2028Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2029Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2029Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2029Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2029Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2030Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2030Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2030Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2030Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2031Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2031Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2031Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2031Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2032Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2032Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2032Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-d12994245f0d7520,2032Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2025Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2025Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2025Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2025Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2026Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2026Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2026Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2026Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2027Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2027Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2027Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2027Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2028Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2028Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2028Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2028Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2029Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2029Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2029Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2029Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2030Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2030Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2030Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2030Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2031Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2031Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2031Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2031Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2032Q1,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2032Q2,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2032Q3,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
+fab-1eb87fcfcfc3033a,2032Q4,0,"Eleuthia no-credit assumption within the displayed horizon, not a claim of physically zero capacity or a company commitment to delay. First-fab forecasts are not applied to Fab 2."
 fab-46f375cb3b8043e7,2025Q1,0,Eleuthia estimate of quarter-end available wafer-start capacity. August broker site forecast is allocated between two company-confirmed cleanrooms using analyst judgment; initial capacity is not HVM or actual output. Room endpoints are provisional.
 fab-46f375cb3b8043e7,2025Q2,0,Eleuthia estimate of quarter-end available wafer-start capacity. August broker site forecast is allocated between two company-confirmed cleanrooms using analyst judgment; initial capacity is not HVM or actual output. Room endpoints are provisional.
 fab-46f375cb3b8043e7,2025Q3,0,Eleuthia estimate of quarter-end available wafer-start capacity. August broker site forecast is allocated between two company-confirmed cleanrooms using analyst judgment; initial capacity is not HVM or actual output. Room endpoints are provisional.
