@@ -127,38 +127,38 @@ fab-57ab09edd69b3b28,2032Q1,35000.0,Quarterly planning estimate derived from ann
 fab-57ab09edd69b3b28,2032Q2,35000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-57ab09edd69b3b28,2032Q3,35000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-57ab09edd69b3b28,2032Q4,35000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2025Q1,9000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2025Q2,12000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2025Q3,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2025Q4,18000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2026Q1,21000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2026Q2,24000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2026Q3,27000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2026Q4,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2027Q1,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2027Q2,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2027Q3,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2027Q4,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2028Q1,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2028Q2,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2028Q3,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2028Q4,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2029Q1,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2029Q2,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2029Q3,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2029Q4,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2030Q1,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2030Q2,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2030Q3,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2030Q4,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2031Q1,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2031Q2,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2031Q3,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2031Q4,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2032Q1,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2032Q2,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2032Q3,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-692269306e595686,2032Q4,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
+fab-692269306e595686,2025Q1,15000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2025Q2,24000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2025Q3,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2025Q4,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2026Q1,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2026Q2,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2026Q3,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2026Q4,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2027Q1,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2027Q2,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2027Q3,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2027Q4,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2028Q1,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2028Q2,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2028Q3,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2028Q4,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2029Q1,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2029Q2,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2029Q3,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2029Q4,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2030Q1,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2030Q2,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2030Q3,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2030Q4,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2031Q1,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2031Q2,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2031Q3,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2031Q4,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2032Q1,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2032Q2,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2032Q3,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-692269306e595686,2032Q4,30000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
 fab-4964bfcf24a829ef,2025Q1,35000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-4964bfcf24a829ef,2025Q2,35000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-4964bfcf24a829ef,2025Q3,35000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
@@ -319,294 +319,294 @@ fab-a1f452db8a61a652,2032Q1,30000.0,Quarterly planning estimate derived from ann
 fab-a1f452db8a61a652,2032Q2,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-a1f452db8a61a652,2032Q3,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-a1f452db8a61a652,2032Q4,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2025Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2026Q1,892.8571428571428,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2026Q2,1785.7142857142856,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2026Q3,2678.5714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2026Q4,3571.428571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2027Q1,8035.714285714286,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2027Q2,12500.000000000002,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2027Q3,16964.285714285714,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2027Q4,21428.57142857143,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2028Q1,22321.428571428572,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2028Q2,23214.285714285714,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2028Q3,24107.14285714286,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2028Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2029Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2029Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2029Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2029Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2030Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2030Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2030Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2030Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2031Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2031Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2031Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2031Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2032Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2032Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2032Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-18badee2a6ea22fb,2032Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2025Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2026Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2026Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2026Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2026Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2027Q1,1041.6666666666665,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2027Q2,2083.333333333333,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2027Q3,3124.9999999999995,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2027Q4,4166.666666666666,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2028Q1,6249.999999999999,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2028Q2,8333.333333333332,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2028Q3,10416.666666666664,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2028Q4,12499.999999999998,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2029Q1,15624.999999999998,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2029Q2,18750.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2029Q3,21875.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2029Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2030Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2030Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2030Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2030Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2031Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2031Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2031Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2031Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2032Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2032Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2032Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1710871bf33f6e21,2032Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2025Q1,7142.857142857142,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2025Q2,10714.285714285712,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2025Q3,14285.714285714283,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2025Q4,17857.142857142855,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2026Q1,19642.857142857138,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2026Q2,21428.571428571424,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2026Q3,23214.28571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2026Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2027Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2027Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2027Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2027Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2028Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2028Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2028Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2028Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2029Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2029Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2029Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2029Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2030Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2030Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2030Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2030Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2031Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2031Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2031Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2031Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2032Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2032Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2032Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-eacafb582ed3b081,2032Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2025Q1,892.8571428571428,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2025Q2,1785.7142857142856,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2025Q3,2678.5714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2025Q4,3571.428571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2026Q1,6250.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2026Q2,8928.571428571428,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2026Q3,11607.142857142855,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2026Q4,14285.714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2027Q1,16964.285714285714,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2027Q2,19642.85714285714,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2027Q3,22321.42857142857,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2027Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2028Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2028Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2028Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2028Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2029Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2029Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2029Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2029Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2030Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2030Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2030Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2030Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2031Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2031Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2031Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2031Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2032Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2032Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2032Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8528c865f891f8d1,2032Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2025Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2026Q1,892.8571428571428,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2026Q2,1785.7142857142856,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2026Q3,2678.5714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2026Q4,3571.428571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2027Q1,7142.857142857142,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2027Q2,10714.285714285712,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2027Q3,14285.714285714283,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2027Q4,17857.142857142855,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2028Q1,19642.857142857138,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2028Q2,21428.571428571424,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2028Q3,23214.28571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2028Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2029Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2029Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2029Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2029Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2030Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2030Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2030Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2030Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2031Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2031Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2031Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2031Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2032Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2032Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2032Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-8b7b5faaa7966288,2032Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2025Q1,7142.857142857142,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2025Q2,10714.285714285712,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2025Q3,14285.714285714283,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2025Q4,17857.142857142855,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2026Q1,19642.857142857138,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2026Q2,21428.571428571424,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2026Q3,23214.28571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2026Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2027Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2027Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2027Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2027Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2028Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2028Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2028Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2028Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2029Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2029Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2029Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2029Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2030Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2030Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2030Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2030Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2031Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2031Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2031Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2031Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2032Q1,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2032Q2,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2032Q3,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-cc525e092a412176,2032Q4,24999.999999999996,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2025Q1,892.8571428571428,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2025Q2,1785.7142857142856,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2025Q3,2678.5714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2025Q4,3571.428571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2026Q1,6250.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2026Q2,8928.571428571428,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2026Q3,11607.142857142855,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2026Q4,14285.714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2027Q1,16964.285714285714,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2027Q2,19642.85714285714,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2027Q3,22321.42857142857,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2027Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2028Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2028Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2028Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2028Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2029Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2029Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2029Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2029Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2030Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2030Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2030Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2030Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2031Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2031Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2031Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2031Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2032Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2032Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2032Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-c3c0570ef58f3324,2032Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2025Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2026Q1,892.8571428571428,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2026Q2,1785.7142857142856,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2026Q3,2678.5714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2026Q4,3571.428571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2027Q1,6250.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2027Q2,8928.571428571428,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2027Q3,11607.142857142855,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2027Q4,14285.714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2028Q1,16964.285714285714,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2028Q2,19642.85714285714,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2028Q3,22321.42857142857,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2028Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2029Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2029Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2029Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2029Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2030Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2030Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2030Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2030Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2031Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2031Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2031Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2031Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2032Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2032Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2032Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-a7df6d47ca600a23,2032Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2025Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2026Q1,892.8571428571428,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2026Q2,1785.7142857142856,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2026Q3,2678.5714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2026Q4,3571.428571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2027Q1,6250.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2027Q2,8928.571428571428,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2027Q3,11607.142857142855,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2027Q4,14285.714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2028Q1,16964.285714285714,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2028Q2,19642.85714285714,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2028Q3,22321.42857142857,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2028Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2029Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2029Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2029Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2029Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2030Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2030Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2030Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2030Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2031Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2031Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2031Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2031Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2032Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2032Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2032Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-4fa6307c26846cac,2032Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
+fab-18badee2a6ea22fb,2025Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2025Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2025Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2025Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2026Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2026Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2026Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2026Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2027Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2027Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2027Q3,5000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2027Q4,12500,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2028Q1,20000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2028Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2028Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2028Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2029Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2029Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2029Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2029Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2030Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2030Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2030Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2030Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2031Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2031Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2031Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2031Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2032Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2032Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2032Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-18badee2a6ea22fb,2032Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2025Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2025Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2025Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2025Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2026Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2026Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2026Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2026Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2027Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2027Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2027Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2027Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2028Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2028Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2028Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2028Q4,5000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2029Q1,12500,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2029Q2,20000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2029Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2029Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2030Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2030Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2030Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2030Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2031Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2031Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2031Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2031Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2032Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2032Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2032Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1710871bf33f6e21,2032Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2025Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2025Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2025Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2025Q4,5000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2026Q1,12500,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2026Q2,20000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2026Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2026Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2027Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2027Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2027Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2027Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2028Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2028Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2028Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2028Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2029Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2029Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2029Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2029Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2030Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2030Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2030Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2030Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2031Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2031Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2031Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2031Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2032Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2032Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2032Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-eacafb582ed3b081,2032Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2025Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2025Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2025Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2025Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2026Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2026Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2026Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2026Q4,5000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2027Q1,12500,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2027Q2,20000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2027Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2027Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2028Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2028Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2028Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2028Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2029Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2029Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2029Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2029Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2030Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2030Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2030Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2030Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2031Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2031Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2031Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2031Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2032Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2032Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2032Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8528c865f891f8d1,2032Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2025Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2025Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2025Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2025Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2026Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2026Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2026Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2026Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2027Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2027Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2027Q3,5000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2027Q4,12500,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2028Q1,20000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2028Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2028Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2028Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2029Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2029Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2029Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2029Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2030Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2030Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2030Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2030Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2031Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2031Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2031Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2031Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2032Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2032Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2032Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-8b7b5faaa7966288,2032Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2025Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2025Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2025Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2025Q4,5000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2026Q1,12500,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2026Q2,20000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2026Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2026Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2027Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2027Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2027Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2027Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2028Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2028Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2028Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2028Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2029Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2029Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2029Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2029Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2030Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2030Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2030Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2030Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2031Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2031Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2031Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2031Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2032Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2032Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2032Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-cc525e092a412176,2032Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2025Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2025Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2025Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2025Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2026Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2026Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2026Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2026Q4,5000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2027Q1,12500,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2027Q2,20000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2027Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2027Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2028Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2028Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2028Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2028Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2029Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2029Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2029Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2029Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2030Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2030Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2030Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2030Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2031Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2031Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2031Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2031Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2032Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2032Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2032Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-c3c0570ef58f3324,2032Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2025Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2025Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2025Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2025Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2026Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2026Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2026Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2026Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2027Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2027Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2027Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2027Q4,5000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2028Q1,12500,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2028Q2,20000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2028Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2028Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2029Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2029Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2029Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2029Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2030Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2030Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2030Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2030Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2031Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2031Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2031Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2031Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2032Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2032Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2032Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-a7df6d47ca600a23,2032Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2025Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2025Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2025Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2025Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2026Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2026Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2026Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2026Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2027Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2027Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2027Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2027Q4,5000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2028Q1,12500,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2028Q2,20000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2028Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2028Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2029Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2029Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2029Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2029Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2030Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2030Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2030Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2030Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2031Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2031Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2031Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2031Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2032Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2032Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2032Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-4fa6307c26846cac,2032Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
 fab-757c1f43f19f18cc,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-757c1f43f19f18cc,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-757c1f43f19f18cc,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
@@ -703,38 +703,38 @@ fab-34528a10ff01d3df,2032Q1,24999.999999999993,Quarterly planning estimate deriv
 fab-34528a10ff01d3df,2032Q2,24999.999999999993,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-34528a10ff01d3df,2032Q3,24999.999999999993,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-34528a10ff01d3df,2032Q4,24999.999999999993,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2025Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2026Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2026Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2026Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2026Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2027Q1,1041.6666666666665,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2027Q2,2083.333333333333,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2027Q3,3124.9999999999995,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2027Q4,4166.666666666666,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2028Q1,6249.999999999999,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2028Q2,8333.333333333332,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2028Q3,10416.666666666664,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2028Q4,12499.999999999998,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2029Q1,15624.999999999998,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2029Q2,18750.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2029Q3,21875.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2029Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2030Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2030Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2030Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2030Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2031Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2031Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2031Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2031Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2032Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2032Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2032Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-1e56a65d5f46cb6f,2032Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
+fab-1e56a65d5f46cb6f,2025Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2025Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2025Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2025Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2026Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2026Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2026Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2026Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2027Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2027Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2027Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2027Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2028Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2028Q2,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2028Q3,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2028Q4,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2029Q1,0,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2029Q2,5000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2029Q3,12500,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2029Q4,20000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2030Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2030Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2030Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2030Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2031Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2031Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2031Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2031Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2032Q1,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2032Q2,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2032Q3,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
+fab-1e56a65d5f46cb6f,2032Q4,25000,Eleuthia quarter-end available wafer-start capacity estimate; capacity and quarterly ramp are modeled separately from disclosed facility milestones.
 fab-8e3874ad48292598,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-8e3874ad48292598,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-8e3874ad48292598,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
@@ -1471,38 +1471,38 @@ fab-b91f4c8939635495,2032Q1,5000.0,Quarterly planning estimate derived from annu
 fab-b91f4c8939635495,2032Q2,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-b91f4c8939635495,2032Q3,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-b91f4c8939635495,2032Q4,5000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2025Q1,10000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2025Q2,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2025Q3,20000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2025Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2026Q1,28750.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2026Q2,32500.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2026Q3,36250.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2026Q4,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2027Q1,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2027Q2,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2027Q3,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2027Q4,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2028Q1,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2028Q2,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2028Q3,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2028Q4,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2029Q1,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2029Q2,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2029Q3,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2029Q4,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2030Q1,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2030Q2,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2030Q3,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2030Q4,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2031Q1,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2031Q2,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2031Q3,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2031Q4,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2032Q1,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2032Q2,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2032Q3,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-38ad37f9d81002c2,2032Q4,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
+fab-38ad37f9d81002c2,2025Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2025Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2025Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2025Q4,4000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2026Q1,12000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2026Q2,24000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2026Q3,34000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2026Q4,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2027Q1,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2027Q2,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2027Q3,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2027Q4,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2028Q1,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2028Q2,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2028Q3,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2028Q4,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2029Q1,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2029Q2,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2029Q3,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2029Q4,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2030Q1,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2030Q2,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2030Q3,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2030Q4,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2031Q1,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2031Q2,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2031Q3,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2031Q4,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2032Q1,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2032Q2,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2032Q3,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-38ad37f9d81002c2,2032Q4,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
 fab-c1fca2a2861a4fdf,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-c1fca2a2861a4fdf,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-c1fca2a2861a4fdf,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
@@ -1567,70 +1567,70 @@ fab-49c6f58c13cda462,2032Q1,15000.0,Quarterly planning estimate derived from ann
 fab-49c6f58c13cda462,2032Q2,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-49c6f58c13cda462,2032Q3,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-49c6f58c13cda462,2032Q4,15000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2025Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2026Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2026Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2026Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2026Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2027Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2027Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2027Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2027Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2028Q1,2857.142857142857,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2028Q2,5714.285714285714,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2028Q3,8571.428571428569,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2028Q4,11428.571428571428,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2029Q1,17857.142857142855,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2029Q2,24285.714285714286,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2029Q3,30714.28571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2029Q4,37142.85714285714,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2030Q1,37857.142857142855,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2030Q2,38571.42857142857,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2030Q3,39285.714285714275,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2030Q4,39999.99999999999,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2031Q1,39999.99999999999,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2031Q2,39999.99999999999,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2031Q3,39999.99999999999,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2031Q4,39999.99999999999,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2032Q1,39999.99999999999,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2032Q2,39999.99999999999,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2032Q3,39999.99999999999,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-31091ef8ae0ed425,2032Q4,39999.99999999999,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2025Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2026Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2026Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2026Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2026Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2027Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2027Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2027Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2027Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2028Q1,714.2857142857142,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2028Q2,1428.5714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2028Q3,2142.857142857142,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2028Q4,2857.142857142857,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2029Q1,7142.857142857142,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2029Q2,11428.571428571428,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2029Q3,15714.285714285716,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2029Q4,20000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2030Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2030Q2,30000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2030Q3,35000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2030Q4,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2031Q1,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2031Q2,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2031Q3,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2031Q4,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2032Q1,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2032Q2,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2032Q3,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-9fabae89337b31d8,2032Q4,40000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
+fab-31091ef8ae0ed425,2025Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2025Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2025Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2025Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2026Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2026Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2026Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2026Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2027Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2027Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2027Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2027Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2028Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2028Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2028Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2028Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2029Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2029Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2029Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2029Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2030Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2030Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2030Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2030Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2031Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2031Q2,4000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2031Q3,12000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2031Q4,24000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2032Q1,34000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2032Q2,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2032Q3,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-31091ef8ae0ed425,2032Q4,40000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2025Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2025Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2025Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2025Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2026Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2026Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2026Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2026Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2027Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2027Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2027Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2027Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2028Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2028Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2028Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2028Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2029Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2029Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2029Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2029Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2030Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2030Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2030Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2030Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2031Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2031Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2031Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2031Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2032Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2032Q2,4000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2032Q3,12000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-9fabae89337b31d8,2032Q4,24000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
 fab-2bd6f4d70a51c8c1,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-2bd6f4d70a51c8c1,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-2bd6f4d70a51c8c1,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
@@ -2207,38 +2207,38 @@ fab-1a7cc28620f1347a,2032Q1,15625.0,Quarterly planning estimate derived from ann
 fab-1a7cc28620f1347a,2032Q2,18750.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-1a7cc28620f1347a,2032Q3,21875.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-1a7cc28620f1347a,2032Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2025Q4,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2026Q1,892.8571428571428,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2026Q2,1785.7142857142856,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2026Q3,2678.5714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2026Q4,3571.428571428571,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2027Q1,6250.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2027Q2,8928.571428571428,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2027Q3,11607.142857142855,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2027Q4,14285.714285714284,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2028Q1,16964.285714285714,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2028Q2,19642.85714285714,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2028Q3,22321.42857142857,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2028Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2029Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2029Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2029Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2029Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2030Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2030Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2030Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2030Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2031Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2031Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2031Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2031Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2032Q1,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2032Q2,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2032Q3,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
-fab-065906ec0a3161a7,2032Q4,25000.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
+fab-065906ec0a3161a7,2025Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2025Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2025Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2025Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2026Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2026Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2026Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2026Q4,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2027Q1,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2027Q2,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2027Q3,0,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2027Q4,6000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2028Q1,10000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2028Q2,15000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2028Q3,20000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2028Q4,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2029Q1,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2029Q2,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2029Q3,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2029Q4,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2030Q1,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2030Q2,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2030Q3,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2030Q4,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2031Q1,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2031Q2,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2031Q3,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2031Q4,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2032Q1,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2032Q2,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2032Q3,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
+fab-065906ec0a3161a7,2032Q4,25000,"Eleuthia quarter-end available wafer-start capacity estimate; room capacity and ramp are analyst judgments, not disclosed actual wafer starts."
 fab-b2684b63a678c11c,2025Q1,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-b2684b63a678c11c,2025Q2,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
 fab-b2684b63a678c11c,2025Q3,0.0,Quarterly planning estimate derived from annual lithography-capacity anchors; not actual wafer starts
@@ -5471,3 +5471,35 @@ fab-edd2c57cb0e9ec2e,2032Q1,13400,Projected available wafer-start capacity. Quar
 fab-edd2c57cb0e9ec2e,2032Q2,13400,Projected available wafer-start capacity. Quarterly path and deck split are modeled; company targets are annual fab-level anchors.
 fab-edd2c57cb0e9ec2e,2032Q3,13400,Projected available wafer-start capacity. Quarterly path and deck split are modeled; company targets are annual fab-level anchors.
 fab-edd2c57cb0e9ec2e,2032Q4,13400,Projected available wafer-start capacity. Quarterly path and deck split are modeled; company targets are annual fab-level anchors.
+fab-d5f13294d917476c,2025Q1,0,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2025Q2,0,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2025Q3,0,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2025Q4,0,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2026Q1,0,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2026Q2,0,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2026Q3,0,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2026Q4,0,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2027Q1,6000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2027Q2,18000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2027Q3,36000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2027Q4,51000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2028Q1,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2028Q2,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2028Q3,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2028Q4,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2029Q1,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2029Q2,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2029Q3,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2029Q4,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2030Q1,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2030Q2,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2030Q3,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2030Q4,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2031Q1,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2031Q2,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2031Q3,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2031Q4,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2032Q1,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2032Q2,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2032Q3,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
+fab-d5f13294d917476c,2032Q4,60000,"Eleuthia modeled available wafer-start capacity; phase-to-room mapping, initial ramp and HVM are estimates."
